@@ -1,0 +1,91 @@
+.contact1
+{
+    height: 400px;
+}
+.shiftcontact
+{
+    position: relative;
+      left: 125px;
+      top: 60px;
+}
+.color2
+{
+    color: skyblue;
+}
+.color2:hover
+{
+    color:  #ff5722;
+}
+.sizeboxcon
+{
+    bottom: 300px;
+    left: 200px;
+    width: 1100px;
+    height: 600px;
+    position: relative;
+    bottom: 300px;
+    left: 200px;
+}
+.textformat
+{
+    font-size: 60px;
+}
+.contact2
+{
+ background-color: black;
+ height: 600px;
+ position: relative;
+ bottom: 400px;
+}
+.address
+{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 40px;
+    top: 50px;
+
+}
+.socialmedia
+{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    bottom: 270px;
+}
+.phone
+{
+    width: 300px;
+    height:300px;
+    position: relative;
+    bottom: 590px;
+    left:750px;
+}
+.color1c
+{
+    color:  #687466;
+}
+.color2c
+{
+     color: white;
+     font-size: 40px;
+}
+.contactshift
+{
+    position: relative;
+    left: 20px;
+    top: 40px;
+}
+.shift7
+{
+    position: relative;
+    right: 100px;
+}
+.displaycopy
+{
+    color: white;
+    position: relative;
+    bottom: 480px;
+    left: 400px;
+}

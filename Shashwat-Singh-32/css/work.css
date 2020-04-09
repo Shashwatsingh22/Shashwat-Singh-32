@@ -1,0 +1,114 @@
+.shiftform4
+{
+   position: relative;
+   left: 125px;
+}
+.textfontwork
+{
+    position: relative;
+    left: 150px;
+    font-size: 60px;
+    width: 1000px;    
+}
+/*.workbox
+{
+}*/
+.gifcontrol
+{
+    width: 1700px;
+    height: 600px;
+}
+.icons
+{
+    height: 0px;
+    position: relative;
+    top: 135px;
+}
+.google
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 680px;
+    left: 60px;
+}
+.amazon
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 880px;
+    left: 320px;
+}
+.dell
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 1080px;
+    left: 580px;
+}
+.hp
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 1280px;
+    left: 840px;
+}
+.ibm
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 1480px;
+    left: 1100px;
+}
+.infosys
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 1400px;
+    left: 60px;
+}
+.intel
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 1600px;
+    left: 320px;
+}
+.nvidia
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 840px;
+    bottom: 2000px;
+}
+.wipro
+{
+    
+        width: 200px;
+        height: 200px;
+        position: relative;
+        left: 580px;
+        bottom: 1800px;
+}
+.manymore
+{
+    width: 200px;
+    height: 200px;
+    color: #5f6769 ;
+    position: relative;
+    left: 1100px;
+    bottom: 2200px; 
+}
+.fix1
+{
+    position: relative;
+    top: 40px;
+    left: 50px;
+}

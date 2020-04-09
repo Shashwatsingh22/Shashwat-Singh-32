@@ -1,0 +1,77 @@
+.shift
+{
+    background-color:  rgba(231, 147, 37, 0.377);
+    width: 550px;
+    height: 485px;
+    border-radius: 50px;
+    align-items: center;
+    position: relative;
+    bottom: 0px;
+    top: -400;
+    left: 750px;
+    text-shadow: lightsalmon;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.295);
+}
+input[type=text] {
+    height: 8px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid lightsalmon ;
+  }
+.trans
+{
+    padding-right: 30px;
+}
+#wid{width: 400px;
+    padding-right: 40px;
+    }
+#wid1{width:400px}
+input
+{
+    background-color: #f7ce7d36;
+}
+.shift2
+{
+    position: relative;
+    left:290px;
+    bottom:120px;
+}
+.btn
+{
+    font-family : 'Raleway', sans-serif;
+    border-radius : 28px;
+    font-size : 13px;
+    text-transform : uppercase;
+    margin : 0 6px;
+    padding : 12px 46px 12px 46px;
+    -webkit-transition : all 0.5s;
+    transition : all 0.5s;
+}
+.btn-top
+{
+    color : black;
+    border :black solid 1px;
+}
+.btn-top:hover, .btn-top:focus
+{
+    color :black;
+    background-color : #d8800e;
+    border : #db820e solid 1px;
+    }
+    a{
+      text-decoration: none;
+    }
+#resize
+{
+  padding-top: 25px;
+padding-left: 25px;
+padding-right: 25px
+}
+.weight
+{
+    font-size:25px;
+    font-weight: 200;
+}

@@ -1,0 +1,106 @@
+.bg-image2
+{
+  background-color:#E4F9F5;
+  position:relative;
+  bottom: 20px;
+  padding-top:50px;
+  padding-bottom: 0;
+  height:1250px;
+  background-image: url(Background-images/services-bg.jpg);
+  background-size: cover;
+  display: block;
+
+}
+
+.sershift3
+{
+    position: relative;
+    left: 125px;
+}
+.display1
+{
+    color: white;
+    font-size:60;
+}
+.h1shift1
+{
+    position: relative;
+    left: 120px;
+
+}
+.display2
+{
+    color: #5f6769;
+    width: 1200px;
+}
+.ser
+{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 20px;
+}
+.ser1
+{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 470px;
+    bottom: 340px
+}
+.ser2
+{
+    width: 400px;
+    height: 300px;
+    position: relative; 
+    left: 920px;
+    bottom: 680px;
+}
+.ser3
+{
+    width: 400px;
+    height: 300px;
+    position: relative; 
+    bottom: 680px;
+    left: 20px;
+}
+.ser4
+{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    bottom: 1020px;
+    left: 470px; 
+}
+.ser5
+{
+    width: 400px;
+    height: 300px;
+    position: relative; 
+    bottom: 1360px;
+    left: 920px;
+}
+.wholeshifser
+{
+    position: relative;
+    top: 20px;
+
+}
+.serfontsizeh1
+{
+    font-size: 60px;
+    color: #ff5722;
+    position: relative;
+    left: 20px;
+}
+.serdisplayh2
+{
+    color:white;
+    position: relative;
+    left:20px ;
+    bottom: 20px;
+}
+.serdisplayh3
+{
+    color:#5f6769 ;
+}

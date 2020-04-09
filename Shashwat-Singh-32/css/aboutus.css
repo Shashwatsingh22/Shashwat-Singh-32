@@ -1,0 +1,121 @@
+.size
+{
+    background-color: #b2ebf2;
+    height:1100px;
+    width:1500px;
+    position: relative;
+    bottom: 18px;
+    
+}
+.shape
+{
+    background-color:#b2ebf2;
+    height:1050px;
+    width: 1100px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    border-radius: 25px;
+    
+}
+.boxtext
+{
+    position: relative;
+    top: 40px;
+    left: 30px;
+    right: auto;
+    margin-right: 70px;
+
+}
+#hr1
+{
+   width: 180px;
+   position: relative;
+   margin-left: 0px;
+    margin-right: 0px;
+    left: 40px;
+    bottom: 20px;
+
+}
+.head1
+{
+    color: #ff5722;
+}
+.shiftform1
+{
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+}
+.shiftform2
+{
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+    width: 1000px;
+}
+.shiftform2 h3
+{
+   color: #687466;
+}
+.sizein
+{
+  border-radius: 25px;
+  background-color: #b2ebf2f6;
+  width: 500px;
+  height: 300px;
+  box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.288);
+}
+.eveimg
+{
+    width: 150px;
+    height: 100px;
+}
+.shiftin1
+{
+    position: relative;
+    top: 30px;
+    right: 30px;
+}
+.shiftin2
+{
+    position: relative;
+    left: 525px;
+    bottom: 270px;
+}
+.shiftin3
+{
+ position: relative;
+ right: 30px;
+ bottom: 230px;
+}
+.shiftin4
+{
+  position: relative;
+  left: 525px;
+  bottom: 530px;
+}
+.shiftinner
+{
+    position: relative;
+    left: 150px;
+    bottom: 80px;
+}
+.shiftinner1
+{
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    bottom: 60px;
+}
+.posshift
+{
+   position: relative;
+top: 250px;
+}
+.res
+{
+    position: relative;
+    left: 340px;
+    display: block;
+}
