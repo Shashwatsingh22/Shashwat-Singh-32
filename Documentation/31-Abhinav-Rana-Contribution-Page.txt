@@ -1,0 +1,22 @@
+We are by a project name as marketing website . 
+As we all know marketing is basically,for the people and by the people kind of thing. 
+This project is designed as people comme to know about company specialization.
+It is a online system through which customer can view available data that the want to know.
+So i grab all the information about the companies that we are describing in our project,As this is a marketing project, 
+Giving information about all the companies the basic plot of this project. 
+Or we can say a vital component, the advancement in informative technology and internet has greatly enchanced various business process and communication.
+So i tried my best to give all the information in the single click.
+As people can get all the information in this platform, I prepared all the data , A data scenerio ,Guidance of all the companies that i have mentioned.
+The companies are :
+IBM
+Dell
+HP
+Google
+Infosis
+Amazon
+Nvidea
+TCS
+Wipro
+Intel
+Moreover I designed webpages for some of the companies mentioned above.
+These things are the main source of information for the website.

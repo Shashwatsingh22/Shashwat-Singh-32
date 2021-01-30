@@ -1,0 +1,43 @@
+body{
+    background-image: url(infosys.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    backface-visibility: visible;
+}
+p{
+    color: black;
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    color: grey;
+    text-shadow: orange;
+    text-underline-position: below;
+}
+h3
+{
+    text-align: center;
+    color: grey;
+    text-shadow: orange;
+    text-underline-position: below;
+}
+.demo{color:black;
+    background-color: burlywood;
+    border-spacing: 3px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    border-style: double;
+    border-color: goldenrod;
+    border-radius: 10cm;
+    }
+.demo2
+{
+    margin: 1cm;
+    color: darkred;
+    margin: 10px;
+    padding: 10px;
+}

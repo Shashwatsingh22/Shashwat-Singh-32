@@ -1,0 +1,115 @@
+History
+Infosys was established by seven engineers in Pune, Maharashtra, India with an initial capital of $250 in 1981.[7] It was registered as Infosys Consultants Private Limited on 2 July 1981.[8] In 1983, it relocated its office to Bangalore, Karnataka, India.
+
+The company changed its name to Infosys Technologies Private Limited in April 1992 and to Infosys Technologies Limited when it became a public limited company in June 1992. It was later renamed to Infosys Limited in June 2011.[9]
+
+An initial public offer (IPO) in February 1993 with an offer price of ₹95 (equivalent to ₹550 or US$7.80 in 2019) per share against book value of ₹20 (equivalent to ₹120 or US$1.60 in 2019) per share was undersubscribed but it was "bailed out" by US investment bank Morgan Stanley, which picked up 13% of equity at the offer price.[10] Its shares were listed in stock exchanges in June 1993 with trading opening at ₹145 (equivalent to ₹850 or US$12 in 2019) per share.[11]
+
+Its shares were listed on NASDAQ in 1999 through ADR route. The share price surged to ₹8,100 (equivalent to ₹28,000 or US$390 in 2019) by 1999 making it the costliest share on the market at the time. At that time, Infosys was among the 20 biggest companies by market capitalization on the NASDAQ.[10] The ADR listing was shifted from NASDAQ to NYSE Euronext to give its European investors better access to its stock.[12] Infosys Q3 net profit rises 23.7% to Rs 4,466cr in the month of january 2020 even after all the whistleblower complaints which was not proven after investigation.
+
+
+Infosys, Bangalore
+Its annual revenue reached US$100 million in 1999, US$1 billion in 2004 and US$10 billion in 2017.[8]
+
+In 2012, Infosys announced a new office in Milwaukee, Wisconsin, to serve Harley-Davidson, being the 18th international office in the United States.[13][14] Infosys hired 1,200 United States employees in 2011, and expanded the workforce by an additional 2,000 employees in 2012.[14] In April 2018 Infosys announced expanding in Indianapolis, Indiana. The development will include more than 120 acres and is expected to result in 3,000 new jobs—1,000 more than previously announced.
+
+In July 2014, Infosys started a product subsidiary called EdgeVerve Systems, focusing on enterprise software products for business operations, customer service, procurement and commerce network domains.[15] In August 2015, the Finacle Global Banking Solutions assets were officially transferred from Infosys and became part of the product company EdgeVerve Systems product portfolio.[16]
+
+Products and services
+Infosys provides software development, maintenance and independent validation services to companies in finance, insurance, manufacturing and other domains.[17]
+
+One of its known products is Finacle which is a universal banking solution with various modules for retail & corporate banking.[18]
+
+
+Glass building in Pune campus
+Its key products and services are:
+
+NIA – Next Generation Integrated AI Platform (formerly known as Mana)
+Infosys Consulting – a global management consulting service
+Infosys Information Platform (IIP) – Analytics platform
+EdgeVerve Systems which includes Finacle, a global banking platform
+Panaya Cloud Suite
+Skava
+Geographical presence
+
+Main block in Chennai campus
+Infosys has 82 sales and marketing offices and 123 development centres across the world as of March 31, 2018, with major presence in India, United States, China, Australia, Japan, Middle East and Europe.[19][20]
+
+In 2019, 60%, 24% and 3% of its revenues were derived from projects in North America, Europe and India, respectively. Remaining 13% of revenues were derived from rest of the world.[21]
+
+Acquisitions
+Name of acquired company	Based in	Acquisition cost	Acquisition date	Business of acquired company
+Expert Information Services	Australia	US$23 million	Dec 2003 IT service provider
+McCamish Systems	USA	US$38 million	Dec 2009	Insurance and financial services
+Portland Group	Australia	AUD 37 million	Jan 2012	Strategic sourcing and category management
+Lodestone Holding AG	Switzerland	US$345 million	Sep 2012	Management consultancy
+Panaya	Israel	US$200 million	Mar 2015	Automation technology
+Skava	USA	US$120 million	Apr 2015	Digital experience solutions
+Noah-Consulting	USA	US$70 million	Nov 2015	Information management consulting services
+Skytree	USA	Undisclosed amount	Apr 2017	Machine learning
+Brilliant Basics	UK	GBP 7.5 million	Aug 2017 Product design and customer experience
+Fluido Oy	Finland	EUR 65 million	Oct 2018	Salesforce advisor and consulting partner
+WongDoody	USA	US$75 million	Jan 2019 Advertising and creative strategy services
+Stater N.V.	Netherlands	EUR 127.5 million	Apr 2019	Mortgage services
+Simplus	USA-AU	TBD	Feb 2020	Salesforce Partner
+Listing and share holding pattern
+In India, shares of Infosys are listed on the BSE where it is included in BSE SENSEX and NSE where it is included in CNX Nifty. Its shares are listed by way of American depositary receipts (ADRs) at the New York Stock Exchange.
+Over a period of time, the shareholding of its promoters has gradually reduced, starting from June 1993 when its shares were first listed. The promoters' holdings reduced further when Infosys became the first Indian-registered company to list Employees Stock Options Schemes and ADRs on NASDAQ on 11 March 1999.[38] The promoter holding on 31 March 2002 was 28.72%[39] and at 30 June 2017 it dropped to 12.75% as they gradually sold their shares and reduced involvement in active management of the company.[citation needed]
+
+
+A building in Thiruvananthapuram campus
+Shareholders (as of 30 June 2017)[40][41]	Shareholding
+Promoters group	12.75%
+Foreign institutional investors (FII)	37.47%
+ADR	16.70%
+Individual shareholders	09.83%
+Banks, financial institutions and insurance companies	11.24%
+Mutual funds	08.97%
+Others	03.04%
+Total	100.00%
+Employees
+Infosys had a total of 243,454 employees at the end of December 2019, out of which 37.8% were women.[21] Out of its total workforce, 229,658 are software professionals and remaining 13,796 work for support and sales.[21] In 2016, 89% of its employees were based in India.[42]
+
+During financial year 2019, Infosys received 2,333,420 applications from prospective employees, interviewed 180,225 candidates and had a gross addition of 94,324 employees, a 4% hiring rate. These numbers do not include its subsidiaries.[42]
+
+The attrition rate of Infosys Ltd., including its subsidiaries, for financial year 2019 was 21.5%.[42]
+
+Training centre in Mysuru
+
+The Development Centre in Mysuru campus
+As the world's largest corporate university, the Infosys global education centre in the 337 acre[43] campus has 400 instructors and 200+ classrooms,[44] with international benchmarks at its core. Established in 2002, it had trained around 1,25,000 engineering graduates by June 2015.[44] It can train 14,000 employees at a given point of time on various technologies.[45][46]
+
+The Infosys Leadership Institute (ILI), based in Mysuru, has 96 rooms and trains about 400 trainees (called Infoscions) annually.[46] Its purpose is to prepare and develop the senior leaders in Infosys for current and future executive leadership roles.
+
+The Infosys Training Centre in Mysuru also provides a number of extracurricular facilities like tennis, badminton, basketball, swimming pool and gym.
+
+CEOs
+Since its establishment in 1981 till 2014, the CEOs of Infosys were its promoters, with N.R. Narayana Murthy leading the company in its initial 21 years. Dr Vishal Sikka was the first non-promoter CEO of Infosys who worked for around 3 years.[47][48][49] Dr Vishal Sikka resigned in August 2017. In a personal note to board colleagues,[50] Sikka cites a "drumbeat of distractions" and "false, baseless, malicious and increasingly personal attacks" as his reason for leaving Infosys.[51] Many sources suspect this is in reference to a long running feud with Infosys Founders over the new direction Sikka was reportedly taking Infosys.[52][53][54] After his resignation, UB Pravin Rao was appointed as Interim CEO and MD of Infosys.[55] Infosys appointed Salil Parekh chief executive officer (CEO) and managing director (MD) of the company with effect from January 2, 2018,[1].[56]
+
+
+Salil S. Parekh, current CEO & MD
+CEOs
+Name	Period
+Narayan Murthy	1981 to March 2002
+Nandan Nilekani	March 2002 to April 2007
+S. Gopalakrishnan	April 2007 to August 2011
+S. D. Shibulal	August 2011 to July 2014
+Vishal Sikka	August 2014 to August 2017
+UB Pravin Rao (interim)	August 2017 to December 2017[55]
+Salil S. Parekh	January 2018 onwards[57]
+Awards and recognition
+In 2019, Infosys was ranked as the 3rd Best Regarded Company in the World by Forbes.[58]
+In 2017, HfS Research included Infosys in Winner's Circle of HfS Blueprint for Managed Security Services, Industry 4.0 services and Utility Operations.[59][60][61]
+In 2013, Infosys was ranked 18th largest IT services provider in the world by HfS Research.[62] In the same year, it was ranked 53rd in Forbes list of World's Most Innovative Companies.[63]
+In 2012, Infosys was ranked No. 19 amongst the world's most innovative companies by Forbes.[64] In the same year, Infosys was in the list of top twenty green companies in Newsweek's Green Rankings for 2012.[65]
+In 2006, Institute of Chartered Accountants of India included Infosys into Hall of Fame for being the winner of Best Presented Accounts for 11 consecutive years.[66]
+Controversies
+Accusation of visa fraud in the USA
+
+In 2011, Infosys was accused of committing visa fraud by using B-1 (visitor) visas for work requiring H-1B (work) visas. The allegations were initially made by an American employee of Infosys in an internal complaint. He subsequently sued the company, claiming that he was harassed and sidelined after speaking out. Although that case was dismissed,[67] it along with another similar case,[68][69][70] brought the allegations to the notice of the US authorities – and the U.S. Department of Homeland Security and a federal grand jury started investigating.[71]
+
+In October 2013, Infosys agreed to settle the civil suit with US authorities by paying US$34 million.[72] Infosys refused to admit guilt and stressed that it only agreed to pay the fine to avoid the nuisance of 'prolonged litigation'.[73] In its statement the company said "As reflected in the settlement, Infosys denies and disputes any claims of systemic visa fraud, misuse of visas for competitive advantage, or immigration abuse. Those claims are assertions that remain unproven".[74]
+
+Displacement of American workers at Southern California Edison and Disney
+
+In 2015, the United States Department of Labor began an investigation of Infosys after claims were made that the company used workers with H-1B visas to replace workers at Disney and Southern California Edison. The investigation did not find any wrongdoing.
